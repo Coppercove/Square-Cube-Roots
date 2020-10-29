@@ -1,4 +1,4 @@
-/* Adam Montgomery Lab 4 */
+
 
 #include <stdio.h>
 #include <math.h>
